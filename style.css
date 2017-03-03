@@ -4,6 +4,44 @@ article, footer, header, nav, section{
     padding: 0;
     border: 0;
     font-size: 100%;
-    font: inherit;
+    font-family: sans-serif;
     vertical-align: baseline;
+}
+
+body{
+    margin-bottom: 1em;
+    background-color: cyan;
+}
+
+header{
+    background-color: lightcyan;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+p.title {
+    font-size: 3em;
+    vertical-align: middle;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    border: solid 1px black;
+}
+
+div {
+    margin: auto;
+    align: center;
+    width: 50%;
+    text-align: center;
+}
+
+div.resume iframe {
+    margin: auto;
+    width: 40em;
+    height: 40em;
+    border: solid 1px black;
+    box-shadow: 10px 10px 5px #888888;
+
 }
