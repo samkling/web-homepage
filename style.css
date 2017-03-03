@@ -1,0 +1,9 @@
+html, body, div, span, applet, h1, h2, h3, a, img,
+article, footer, header, nav, section{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}

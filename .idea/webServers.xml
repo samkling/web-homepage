@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8880584b-f713-4b0b-b9d1-d5db013172f2" name="klingsam-web" url="http://cse.msu.edu/~klingsam/">
+        <fileTransfer host="arctic.cse.msu.edu" port="22" rootFolder="/user/klingsam/web" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
